@@ -8,7 +8,7 @@ print (f"hi {name} you are {age} years old" )
 lengh= int (input ("entre the lengh:")) 
 width = int (input ("entre the width:")) 
 
-area = lengh + width 
+area = lengh * width 
 
 print ( area )
 
